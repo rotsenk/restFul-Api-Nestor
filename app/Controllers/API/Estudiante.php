@@ -4,7 +4,7 @@ class Estudiante extends ResourceController
 {
 	public function index()
 	{
-		return view('welcome_message');
+		echo "Hola mundi";
 	}
 
 }

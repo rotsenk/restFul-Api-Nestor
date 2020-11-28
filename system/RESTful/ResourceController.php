@@ -52,7 +52,7 @@ use Psr\Log\LoggerInterface;
 class ResourceController extends Controller
 {
 
-	use ResponseTrait;
+	use ResponseTrait; 
 
 	/**
 	 *
